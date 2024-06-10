@@ -1,0 +1,70 @@
+.tahoma-font{
+  font-family: Tahoma;
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.deals-font{
+  font-weight: bold;
+  font-family: Arial;
+  font-size: 20px;
+  margin-bottom: 8px;
+}
+.sales-font{
+  font-size: 18px;
+  font-style: italic;
+  font-family: Arial;
+  color: rgb(246, 45, 45);
+  margin-top: 0;
+}
+
+
+.html-course{
+  font-family: Verdana;
+  font-size: 20px;
+  font-weight: bold;
+  margin-bottom: 0;
+}
+.beginner-html{
+  font-size: 17px;
+  font-family: Arial;
+  color: gray;
+  margin-top: 2px;
+}
+.html-content{
+  font-size: 18px;
+  font-family: Arial;
+}
+.button-text{
+  background-color: green;
+  color: white;
+  border: none;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 10px;
+  padding-right: 10px;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+
+.shopping-font{
+  font-size: 20px;
+  font-family: Arial;
+  font-weight: bold;
+  text-align: center;
+  margin-bottom: 0;
+}
+.shopping-content{
+  font-size: 15px;
+  text-align: center;
+}
+.link-content{
+  font-family: Arial;
+  color: blue;
+  cursor: pointer;
+  text-align: center;
+}
+.link-content:hover{
+  text-decoration: underline;
+}
